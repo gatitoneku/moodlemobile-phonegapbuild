@@ -559,6 +559,7 @@
     "mm.course.couldnotloadsectioncontent": "Could not load the section content. Please try again later.",
     "mm.course.couldnotloadsections": "Could not load the sections. Please try again later.",
     "mm.course.downloadcourse": "Download course",
+    "mm.course.downloadedcourse": "Refresh downloaded course",
     "mm.course.errordownloadingcourse": "Error downloading course.",
     "mm.course.errordownloadingcoursewithname": "<p>Error downloading course: {{name}}</p><p>{{error}}</p>",
     "mm.course.errordownloadingsection": "Error downloading section.",
